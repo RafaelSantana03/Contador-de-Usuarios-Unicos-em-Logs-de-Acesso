@@ -10,8 +10,10 @@ O programa lerá o arquivo de log, identificará os usuários únicos e exibirá
 ## Classe LogRecord:
 A classe LogRecord é responsável por representar cada registro de log de acesso. Ela possui duas propriedades:
 
-## Username: ## O nome do usuário.
-## Instant: ## O momento em que o usuário acessou o site.
+## Username: 
+O nome do usuário.
+## Instant: 
+O momento em que o usuário acessou o site.
 A classe também sobrescreve os métodos GetHashCode e Equals para garantir a comparação correta dos registros de log, com foco na comparação dos nomes de usuário.
 
 ## Observação:
