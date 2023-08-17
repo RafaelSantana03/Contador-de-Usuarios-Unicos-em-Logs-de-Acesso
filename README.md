@@ -15,3 +15,6 @@ Este programa em C# tem como objetivo solucionar um problema comum: contar quant
 ![image](https://github.com/RafaelSantana03/Contador-de-Usuarios-Unicos-em-Logs-de-Acesso/assets/131009931/a7779063-180e-4248-9001-86f91d56cf72)
 
 
+### Resultado Esperado
+![Captura de tela 2023-08-17 163148](https://github.com/RafaelSantana03/Contador-de-Usuarios-Unicos-em-Logs-de-Acesso/assets/131009931/40a71053-b6ee-43a7-b3e4-6efd55230489)
+
