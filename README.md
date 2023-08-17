@@ -18,3 +18,15 @@ Este programa em C# tem como objetivo solucionar um problema comum: contar quant
 ### Resultado Esperado
 ![Captura de tela 2023-08-17 163148](https://github.com/RafaelSantana03/Contador-de-Usuarios-Unicos-em-Logs-de-Acesso/assets/131009931/40a71053-b6ee-43a7-b3e4-6efd55230489)
 
+
+## Estrutura do Código
+
+O código-fonte do programa está organizado em duas classes:
+
+- **Program.cs:** Contém a função Main responsável por executar o programa. Ele lê o arquivo de log, processa os registros e exibe o total de usuários distintos.
+
+- **LogRecord.cs:** Define a classe LogRecord, que representa um registro de log. Ela possui propriedades para o nome de usuário e o horário do acesso, além de implementar os métodos GetHashCode e Equals para trabalhar corretamente com a estrutura HashSet.
+
+## Contribuições
+
+Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, sinta-se à vontade para abrir um problema ou enviar um pull request.
