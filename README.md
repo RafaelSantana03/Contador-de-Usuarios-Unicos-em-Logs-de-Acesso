@@ -1,6 +1,16 @@
 # Contador de Usuários Únicos em Logs de Acesso
 Este é um programa em C# que lê registros de logs de acesso a um site a partir de um arquivo e conta quantos usuários distintos acessaram o site.
 
+### Funcionalidades Principais:
+Leitura de registros de log a partir de um arquivo.
+Identificação e contagem de usuários únicos com base em seus nomes de usuário.
+Uso de sobrescrita dos métodos GetHashCode e Equals na classe LogRecord para garantir a comparação correta dos registros de log.
+Motivação:
+Este projeto foi desenvolvido como uma solução para o problema de contagem de usuários únicos a partir de registros de log de acesso. Ele demonstra o uso de estruturas de dados e métodos especiais de comparação em C#.
+### Problema Exemplo:
+
+
+
 ## Como Usar:
 Clone este repositório para o seu ambiente local.
 Abra o projeto em sua IDE preferida que suporte C#.
