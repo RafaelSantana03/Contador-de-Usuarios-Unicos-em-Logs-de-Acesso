@@ -26,7 +26,3 @@ O código-fonte do programa está organizado em duas classes:
 - **Program.cs:** Contém a função Main responsável por executar o programa. Ele lê o arquivo de log, processa os registros e exibe o total de usuários distintos.
 
 - **LogRecord.cs:** Define a classe LogRecord, que representa um registro de log. Ela possui propriedades para o nome de usuário e o horário do acesso, além de implementar os métodos GetHashCode e Equals para trabalhar corretamente com a estrutura HashSet.
-
-## Contribuições
-
-Contribuições são bem-vindas! Se você tiver sugestões de melhorias, correções de bugs ou novos recursos, sinta-se à vontade para abrir um problema ou enviar um pull request.
