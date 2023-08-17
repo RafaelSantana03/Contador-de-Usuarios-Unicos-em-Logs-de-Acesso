@@ -1,4 +1,4 @@
-##Contador de Usuários Únicos em Logs de Acesso
+## Contador de Usuários Únicos em Logs de Acesso
 Este é um programa em C# que lê registros de logs de acesso a um site a partir de um arquivo e conta quantos usuários distintos acessaram o site.
 
 #Como Usar:
