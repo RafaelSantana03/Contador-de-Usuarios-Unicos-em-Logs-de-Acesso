@@ -8,6 +8,7 @@ Uso de sobrescrita dos métodos GetHashCode e Equals na classe LogRecord para ga
 Motivação:
 Este projeto foi desenvolvido como uma solução para o problema de contagem de usuários únicos a partir de registros de log de acesso. Ele demonstra o uso de estruturas de dados e métodos especiais de comparação em C#.
 ### Problema Exemplo:
+![Captura de tela 2023-08-17 152418](https://github.com/RafaelSantana03/Contador-de-Usuarios-Unicos-em-Logs-de-Acesso/assets/131009931/f443ae60-d357-4774-8b5b-c39026c1046a)
 
 
 
